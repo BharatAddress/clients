@@ -1,3 +1,6 @@
+![CI](https://github.com/BharatAddress/clients/actions/workflows/ci.yml/badge.svg)
+![CodeQL](https://github.com/BharatAddress/clients/actions/workflows/codeql.yml/badge.svg)
+
 # Bharat Address JS/TS Client
 
 Build:
