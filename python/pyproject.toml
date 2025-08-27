@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=67", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bharataddress-client"
+version = "0.1.0"
+description = "Python client for Bharat Address API"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = [
+  "requests>=2.32.0",
+  "pydantic>=2.8.0",
+]
+
+[tool.setuptools.package-dir]
+"" = "bharataddress_client"
+
