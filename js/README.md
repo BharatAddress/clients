@@ -25,3 +25,6 @@ const features = await listAddresses('http://localhost:8000', {
   // city, ulb_lgd, digipin, bbox also supported
 })
 ```
+
+---
+Contributor Guide: https://github.com/BharatAddress/.github/blob/main/AGENTS.md

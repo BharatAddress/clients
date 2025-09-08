@@ -24,3 +24,6 @@ features = c.list_addresses(limit=50, offset=0, pin="560008")
 features = c.list_addresses(city="Bengaluru")
 features = c.list_addresses(bbox="77.4,12.8,77.8,13.1")
 ```
+
+---
+Contributor Guide: https://github.com/BharatAddress/.github/blob/main/AGENTS.md
